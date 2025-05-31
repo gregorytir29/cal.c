@@ -35,3 +35,13 @@ Depending on the user's input:
         The leap year adjustment, which is done in main().
 
     For standalone use, sample code for handling these dependencies is included as comments inside the get_dow() function.
+
+## 🖼️ Example Output
+
+Two examples of calendar output:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ab69475-6e4c-494c-a14e-6fdbf9d8e020" width="45%" alt="Full Year Output" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/9208b9c4-41f4-4d52-963d-12f446604f98" width="45%" alt="Single Month Output" />
+</p>
